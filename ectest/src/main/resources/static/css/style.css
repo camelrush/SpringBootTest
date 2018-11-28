@@ -1,0 +1,23 @@
+header {
+  border-bottom: 2px solid #7ED1E6;
+  padding-bottom: 2px;
+}
+
+footer {
+  border-top: 2px solid #7ED1E6;
+  padding-top: 2px;
+}
+#title {
+  font-family: Helvetica , "游ゴシック", sans-serif;
+}
+#title:first-letter {
+  margin-right: .1em;
+  font-size: 2em;
+  color:#7ED1E6;
+}
+
+#conditions {
+	padding: 20px;
+	font-family: Helvetica , "游ゴシック", sans-serif;
+}
+

@@ -1,0 +1,16 @@
+package com.ksaplabo.ectest;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class EctestController {
+
+	@RequestMapping(value = "/")
+	public String index() {
+		model.addAttribute("selectItems", SELECT_ITEMS);
+		model.addAttribute("checkItems", CHECK_ITEMS);
+		model.addAttribute("radioItems", RADIO_ITEMS);
+		return "Simple/index";
+	}
+}

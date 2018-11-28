@@ -1,0 +1,13 @@
+package com.ksaplabo.ectest;
+
+@Controller
+public class EctestController {
+
+	@RequestMapping(value = "/")
+	public String index(SimpleForm form, Model model) {
+		model.addAttribute("selectItems", SELECT_ITEMS);
+		model.addAttribute("checkItems", CHECK_ITEMS);
+		model.addAttribute("radioItems", RADIO_ITEMS);
+		return "Simple/index";
+	}
+}
