@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ksap-labo.ECTestSite</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+<div class="label" id="title"><h1>ksap-labo.ECTestSite</h1></div>
+</header>
+<table id="conditions">
+  <tr>
+    <td></td>
+    <td>商品名：</td>
+    <td><input type="text"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>開始日：</td>
+    <td><input type="text"/></td>
+    <td>～</td>
+    <td><input type="text"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><input type="button" id="searchbtn" value="検索"/></td>
+  </tr>
+</table>
+<footer>
+<div id="boxArea" style="display:table;padding:0 0 0 2px;"><div style="width:74px;height:22px;float:left;"><a href="https://twitter.com/share" class="twitter-share-button"{count} data-lang="ja" data-dnt="true">ツイート</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div><div style="width:36px;height:22px;float:left;"><div class="g-plusone" data-size="medium" data-annotation="none"></div>
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ja'};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();</script></div><div style="width:67px;height:22px;float:left;"><a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a></div><div style="width:86px;height:22px;float:left;"><span><script type="text/javascript" src="//media.line.me/js/line-button.js?v=20140411" ></script><script type="text/javascript">new media_line_me.LineButton({"pc":true,"lang":"ja","type":"a"});</script></span></div><div style="width:66px;height:22px;float:left;"><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: ja_JP</script><script type="IN/Share"></script></div></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+</footer>
+</body>
+</html>

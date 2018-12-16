@@ -2088,3 +2088,95 @@ org.eclipse.core.runtime.CoreException: 変数が存在しないリソースを参照しています
 2018-11-28 22:53:11,953 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2018-11-28 22:53:20,662 [Worker-11: ectest (1) の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkSpace\SpringBootTest\ectest
 2018-11-28 22:53:20,664 [Worker-11: ectest (1) の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\apache-maven-3.6.0\conf\settings.xml package
+2018-11-29 12:08:57,888 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-29 12:09:01,152 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-11-29 12:09:56,053 [Worker-10: ectest - EctestApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:09:56,061 [Worker-10: ectest - EctestApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:09:56,082 [Worker-10: ectest - EctestApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-11-29 12:09:56,308 [Worker-10: ectest - EctestApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:09:56,308 [Worker-10: ectest - EctestApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-11-29 12:13:08,710 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:13:08,718 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-29 12:13:08,719 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:13:08,735 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:13:08,735 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-11-29 12:13:15,464 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-29 12:13:21,648 [Worker-6: ectest (2) の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkSpace\SpringBootTest\ectest
+2018-11-29 12:13:21,650 [Worker-6: ectest (2) の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\apache-maven-3.6.0\conf\settings.xml package
+2018-12-03 12:22:59,406 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-03 12:23:23,025 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ksap-labo:ectest:0.1 @ C:\WorkSpace\SpringBootTest\ectest\pom.xml.
+2018-12-03 12:23:26,435 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:23:26,442 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-03 12:23:26,461 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-12-03 12:23:26,468 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:23:26,468 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 12:23:54,599 [Worker-3: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:23:54,605 [Worker-3: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-03 12:23:54,609 [Worker-3: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-12-03 12:23:54,615 [Worker-3: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:23:54,615 [Worker-3: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 12:25:10,847 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:25:10,847 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:25:10,848 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:25:10,851 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:25:10,865 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 12:25:47,949 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:25:47,950 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:25:47,950 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:25:47,962 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:25:47,970 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 12:26:07,979 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:26:07,980 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:26:07,986 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:26:07,993 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:26:08,001 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 12:33:20,890 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:33:20,921 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:33:20,921 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 12:33:20,937 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 12:33:20,937 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 18:50:58,502 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 18:50:58,502 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 18:50:58,503 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 18:50:58,508 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 18:50:58,508 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 18:57:45,077 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 18:57:45,077 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 18:57:45,078 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 18:57:45,093 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 18:57:45,093 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 18:58:53,569 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 18:58:53,570 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 18:58:53,584 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 18:58:53,606 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 18:58:53,652 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 19:00:14,612 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:00:14,621 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:00:14,629 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:00:14,640 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:00:14,640 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 19:02:14,489 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:02:14,490 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:02:14,490 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:02:14,493 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:02:14,502 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 19:02:47,679 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:02:47,691 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:02:47,703 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:02:47,718 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:02:47,718 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 19:04:01,820 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:04:01,821 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:04:01,831 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:04:01,866 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:04:01,890 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 19:05:53,562 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:05:53,574 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:05:53,585 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:05:53,597 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:05:53,597 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
+2018-12-03 19:07:34,435 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:07:34,435 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:07:34,435 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-03 19:07:34,438 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-03 19:07:34,438 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\SpringBootTest\ectest\src\test\resources
